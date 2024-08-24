@@ -138,6 +138,7 @@ input[type="submit"]:hover {
     width: 100%;
     height: 80vh;
     background-color: #035f59f5;
+    padding:50px;
 }
 #Service h1{
     font-size: 1.25rem;
